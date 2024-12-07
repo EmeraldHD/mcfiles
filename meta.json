@@ -4,10 +4,11 @@
   "versions": [
     {
       "id": "1.0.1",
-      "releasedAt": 1732661220,
+      "releasedAt": 1732664820000,
       "promotions": {
           "downloads": {
-              "generic": "https://discord.com/channels/976539436990992394/1311099642003587213/1311103459399041164"
+              "curseforge": "https://drive.google.com/file/d/1hbXbCpxF3HXPaLVE1OnOOKUGSrh_kB3u/view",
+              "generic": "https://drive.google.com/file/d/1pVC_GNnabgMuuoYDRTNfEGGOrVu6i5zS/view"
           }
       }
     }
