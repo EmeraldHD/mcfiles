@@ -1,10 +1,13 @@
-*Der "Generic" Knopf für Prism Launcher Nutzer*
+*Der "Generic" Knopf ist für Prism Launcher Nutzer.*
+
 
 ---
 
-Änderungen:
 
-{green}**Hinzufügt**{}
+**Änderungen:**
+
+
+{green}Hinzufügt{}
 
 - Construction Wand
   - owo-lib
@@ -13,6 +16,6 @@
   - AE2 EMI Crafting Integration
   - Just Enough Items
 
-{red}**Entfernt**{}
+{red}Entfernt{}
 
 - RoughlyEnoughItems
