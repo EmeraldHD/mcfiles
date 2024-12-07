@@ -6,21 +6,23 @@
       "id": "1.0.0",
       "releasedAt": 987654321098765,
       "promotions": {
-          "downloads": {
-              "curseforge": "https://drive.google.com/file/d/1OLzkDN7CYD3DqFALh5gw0XHNNNsCCPA6/view",
-              "generic": "https://drive.google.com/file/d/1PKTuiKvYyNRjoDrTKjDGWjAMbzcRfqL8/view"
-          }
-      }
+        "downloads": {
+          "curseforge": "https://drive.google.com/file/d/1OLzkDN7CYD3DqFALh5gw0XHNNNsCCPA6/view",
+          "generic": "https://drive.google.com/file/d/1PKTuiKvYyNRjoDrTKjDGWjAMbzcRfqL8/view"
+        }
+      },
+      "updateType": "minor"
     },
     {
       "id": "1.0.1",
       "releasedAt": 1732579200000,
       "promotions": {
-          "downloads": {
-              "curseforge": "https://drive.google.com/file/d/1hbXbCpxF3HXPaLVE1OnOOKUGSrh_kB3u/view",
-              "generic": "https://drive.google.com/file/d/1pVC_GNnabgMuuoYDRTNfEGGOrVu6i5zS/view"
-          }
-      }
+        "downloads": {
+          "curseforge": "https://drive.google.com/file/d/1hbXbCpxF3HXPaLVE1OnOOKUGSrh_kB3u/view",
+          "generic": "https://drive.google.com/file/d/1pVC_GNnabgMuuoYDRTNfEGGOrVu6i5zS/view"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
