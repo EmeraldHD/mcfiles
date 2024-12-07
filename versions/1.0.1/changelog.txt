@@ -1,5 +1,7 @@
 *Der "Generic" Knopf ist für Prism Launcher Nutzer.*
 
+Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version importieren, um nicht deine Tastenbelegung zu verlieren.
+
 
 ---
 
@@ -19,3 +21,11 @@
 {red}Entfernt{}
 
 - RoughlyEnoughItems
+
+
+---
+
+
+**Manuell:**
+
+Du kannst auch diese [Zip](https://drive.google.com/file/d/1o82LDX-5aEYuo_FDWiaZLH3sOqlV3kdW/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{}{red}Entfernt{}{yellow}" stehen musst du auch manuell entfernen!{}
