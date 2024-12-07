@@ -1,6 +1,7 @@
 *Der "Generic" Knopf ist für Prism Launcher Nutzer.*
 
-Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version importieren, um nicht deine Tastenbelegung zu verlieren.
+
+Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version zu importieren, um nicht deine Tastenbelegung zu verlieren.
 
 
 ---
