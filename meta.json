@@ -3,6 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "1.0.0",
+      "releasedAt": 987654321098765,
+      "promotions": {
+          "downloads": {
+              "curseforge": "https://drive.google.com/file/d/1OLzkDN7CYD3DqFALh5gw0XHNNNsCCPA6/view",
+              "generic": "https://drive.google.com/file/d/1PKTuiKvYyNRjoDrTKjDGWjAMbzcRfqL8/view"
+          }
+      }
+    },
+    {
       "id": "1.0.1",
       "releasedAt": 1732579200000,
       "promotions": {
