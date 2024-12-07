@@ -1,4 +1,4 @@
-{green}**Hinzufüget**{}
+{green}**Hinzufügt**{}
 
 - Construction Wand
   - owo-lib
@@ -8,4 +8,5 @@
   - Just Enough Items
 
 {red}**Entfernt:**{}
+
 - RoughlyEnoughItems
