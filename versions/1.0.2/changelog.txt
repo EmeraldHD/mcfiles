@@ -1,0 +1,39 @@
+*Der "Generic" Knopf ist für Prism Launcher Nutzer.*
+
+
+Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version zu importieren, um nicht deine Tastenbelegung zu verlieren.
+
+
+---
+
+
+**Änderungen:**
+
+
+{green}Hinzufügt{}
+
+- Modpack Update Checker
+- Trinkets
+- BlockBeats
+  - DragNSounds API
+
+{red}Entfernt{}
+
+- AudioPlayer (ist nur Server-seitig)
+- Accessories
+  - Accessories Trinkets Compat Layer
+- Useful Slime
+
+{yellow}geänderte Version{}
+- Mystic Potions 1.3.2-1.20.1-Multi → 1.3.2-1.20.1-Fabric
+- Spectrum 1.8.0 → 1.8.2
+- Sophisticated Backpacks 1.20.1-3.20.11.26 → 1.20.1-3.20.17.1.60
+- Sophisticated Core 1.20.1-0.6.35.49 → 1.20.1-0.7.10.1.78
+
+
+---
+
+
+**Manuell:**
+
+Du kannst auch diese [Zip](https://drive.google.com/file/d/1o82LDX-5aEYuo_FDWiaZLH3sOqlV3kdW/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{}{red}Entfernt{}{yellow}" stehen musst du auch manuell entfernen!{}

@@ -23,6 +23,17 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 1733616000000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://drive.google.com/file/d/1hbXbCpxF3HXPaLVE1OnOOKUGSrh_kB3u/view",
+          "generic": "https://drive.google.com/file/d/1pVC_GNnabgMuuoYDRTNfEGGOrVu6i5zS/view"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
