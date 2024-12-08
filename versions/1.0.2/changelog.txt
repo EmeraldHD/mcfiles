@@ -25,6 +25,7 @@ Bevor du die neue Version installierst, solltest du deine "options.txt" absicher
 - Useful Slime
 
 {yellow}geänderte Version{}
+
 - Mystic Potions 1.3.2-1.20.1-Multi → 1.3.2-1.20.1-Fabric
 - Spectrum 1.8.0 → 1.8.2
 - Sophisticated Backpacks 1.20.1-3.20.11.26 → 1.20.1-3.20.17.1.60
@@ -36,4 +37,4 @@ Bevor du die neue Version installierst, solltest du deine "options.txt" absicher
 
 **Manuell:**
 
-Du kannst auch diese [Zip](https://drive.google.com/file/d/1o82LDX-5aEYuo_FDWiaZLH3sOqlV3kdW/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{}{red}Entfernt{}{yellow}" stehen musst du auch manuell entfernen!{}
+Du kannst auch diese [Zip](https://drive.google.com/file/d/1jx-O-24kF9koTEMtsbkwRji4u-l5Kuvp/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{red}Entfernt{}" stehen musst du auch manuell entfernen!{}
