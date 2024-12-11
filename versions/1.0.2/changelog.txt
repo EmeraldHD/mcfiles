@@ -6,7 +6,7 @@ Bevor du die neue Version installierst, solltest du deine "options.txt" absicher
 
 {red}**WARNUNG!!!**{}
 
-{yellow}Die Mods "Accessories" und "Accessories Trinkets Compat Layer" werden mit "Trinkets" ersetzt, um deine Items nicht zu verlieren lege sie in dein normales Inventar oder einen anderen Container bis die Mods gewechselt wurden.{}
+{yellow}Die Mods "Accessories" und "Accessories Trinkets Compat Layer" werden spätestens am 15.12.2024 mit "Trinkets" ersetzt, um deine Items die in den Extraslots liegen nicht zu verlieren lege sie in dein normales Inventar oder einen anderen Container. Solltest du dies nicht tun sind deine Items nach dem 15.12.2024 für immer weg!{}
 
 
 ---
