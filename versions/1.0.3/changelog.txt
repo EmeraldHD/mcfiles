@@ -1,0 +1,37 @@
+*Der "Generic" Knopf ist für Prism Launcher Nutzer.*
+
+
+Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version zu importieren, um nicht deine Tastenbelegung zu verlieren.
+
+
+---
+
+
+**Änderungen:**
+
+
+{green}Hinzufügt{}
+
+- Trinkets
+- Artifacts
+- Fabric Seasons
+  - Fabric Seasons: Extras
+- Chisel Reborn
+  - Continuity
+
+{red}Entfernt{}
+
+- Accessories
+  - Accessories Trinkets Compat Layer
+
+{yellow}geänderte Version{}
+
+- Spectrum 1.8.1 → 1.8.3
+
+
+---
+
+
+**Manuell:**
+
+Du kannst auch diese [Zip](https://drive.google.com/file/d/1yaAtXAm4ys9IQw2JKkQseE0S5Eia9VpP/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{red}Entfernt{}" stehen musst du auch manuell entfernen!{}

@@ -34,6 +34,18 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "1.0.3",
+      "releasedAt": 1734220800000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://drive.google.com/file/d/1jIKMvzoOeRTjiIGr1QmL5jyoodhRrvA9/view",
+          "curseforge": "https://drive.google.com/file/d/1Trd4yaagGe180uJ97Tgfy4wmBCyH9Fvu/view",
+          "generic": "https://drive.google.com/file/d/1UjscXe40s9zb-GQXBu3_s0NC9ilraX9o/view"
+        }
+      },
+      "updateType": "minor_breaking"
     }
   ]
 }
