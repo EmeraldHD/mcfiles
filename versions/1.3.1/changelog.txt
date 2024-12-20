@@ -1,9 +1,11 @@
-*Nur die Manuell Version aktuell verfügbar*
+*Aktuell ist nur die "Manuell" Version verfügbar*
 
 
 **Manuell:**
 
-Du kannst auch diese [Zip](https://drive.google.com/file/d/1wp7nhDu0TnbIhczIIieHbbHxtDm20tZ9/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{red}Entfernt{}" stehen musst du auch manuell entfernen!{}
+Du kannst auch diese [__Zip__](https://drive.google.com/file/d/1wp7nhDu0TnbIhczIIieHbbHxtDm20tZ9/view) runterladen und die neuen Mods manuell hinzufügen. {yellow}Die Mods die oben bei "{red}Entfernt{}" stehen musst du auch manuell entfernen!{}
+
+
 Bevor du die neue Version installierst, solltest du deine "options.txt" absichern und diese in der neuen Version zu importieren, um nicht deine Tastenbelegung zu verlieren.
 
 
