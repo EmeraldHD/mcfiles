@@ -72,8 +72,7 @@
       "releasedAt": 1734908400000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/mod/automodpack/version/uQiCYwHY",
-          "curseforge": "https://www.curseforge.com/minecraft/mc-mods/automodpack/files/5948009"
+          "generic": "https://drive.google.com/file/d/1aJgpBMQi-T0GjL2A6jgUmk0kmKmrkbHG/view"
         }
       },
       "updateType": "minor"
