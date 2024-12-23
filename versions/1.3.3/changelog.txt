@@ -1,8 +1,10 @@
-1. Lade dir die angepasste Version* der "Automodpack" Mod über denn "Generic"-Knopf herunter.
+1. Lade dir die angepasste Version* der "Automodpack" Mod über denn **"Generic"-Knopf** herunter.
 
-2. Schiebe die Mod in deinen Mod Ordner. (Der Ort vom Mod Ordner variiert nach deinen Launcher)
+2. Schiebe die Mod in deinen Mod Ordner.
 
-3. Minecraft starten und hoffen das die "Automodpack" Mod das macht was sie soll.
+(*Der Ort vom Mod Ordner variiert nach deinen Launcher*)
+
+3. Starte Minecraft und hoffen das die "Automodpack" Mod das macht was sie soll.
 
 
 ---
