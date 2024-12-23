@@ -19,4 +19,4 @@
 ---
 
 
-* = Die "Automodpack" Mod wurde so angepasst das diese schon weiß welche Mods du brauchst. Wäre sie nicht angepasst müsstest du erst den Server joinen und müsstest Minecraft danach nochmal neustarten.
+\* = Die "Automodpack" Mod wurde so angepasst das diese schon weiß welche Mods du brauchst. Wäre sie nicht angepasst müsstest du erst den Server joinen und müsstest Minecraft danach nochmal neustarten.
