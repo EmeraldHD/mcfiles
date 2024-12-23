@@ -1,0 +1,12 @@
+Bitte beachte, dass die zwei oberen Knöpfe nicht wie gewohnt zum Herunterladen des gesamten Modpacks über Google Drive ist, sondern führen zur "AutoModpack" Mod. Du kannst "AutoModpack" auch über deinen Launcher suchen und dort herunterladen. Achten dabei darauf, dass du die Version "4.0.0-beta22 fabric" runterlädst.
+
+
+---
+
+
+**Änderungen:**
+
+
+{green}Hinzufügt{}
+
+- AutoModpack
