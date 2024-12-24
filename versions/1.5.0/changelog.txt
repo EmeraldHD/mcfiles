@@ -15,6 +15,7 @@
 - Open Loader
 - Hide Experimental Warning
 - ThreatenGL
+- Industrial Revolution
 - MEGA Cells
 - Create: Enchantable Machinery
 
