@@ -1,0 +1,23 @@
+{red}Wichtig:{} {yellow}Wenn deine Version unter **1.4.0** ist befolge die Schritte die in 1.4.0 hinterlegt sind, danach solltest du Automatisch auf diese (oder höhere) Version updaten.{}
+
+
+---
+
+
+**Änderungen:**
+
+
+{green}Hinzufügt{}
+
+
+- Loading Backgrounds
+- Tips
+- Open Loader
+- Hide Experimental Warning
+- ThreatenGL
+- MEGA Cells
+- Create: Enchantable Machinery
+
+{red}Entfernt{}
+
+- Seamless Loading Screen
