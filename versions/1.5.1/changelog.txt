@@ -1,0 +1,28 @@
+{red}Wichtig:{} {yellow}Wenn deine Version unter **1.4.0** ist befolge die Schritte die in 1.4.0 hinterlegt sind, danach solltest du Automatisch auf diese (oder höhere) Version updaten.{}
+
+
+---
+
+
+**Änderungen:**
+
+
+{yellow}Update Mods{}
+
+- EntityCulling
+- Gravestones
+- Jade Addons
+- Lootr
+- Moonlight
+- Polymorph
+- Sophisticated Core
+- Xaero's World Map
+- Xaero's Minimap
+
+
+---
+
+
+{red}Wichtig:{} Wenn die "Automodpack" Mod es nicht schafft die "JED Mods 2024 Resources.zip" herrunterladen, kannst du sie __[hier](https://drive.google.com/file/d/1q8Y2DUFeBNBinzDz3uQHFtId-pyFlUOm/view)__ manuel runterladen. Lege die Zip in
+
+"\minecraft\automodpack\modpacks\JED Mod 2024\config\openloader\resources" ab.
